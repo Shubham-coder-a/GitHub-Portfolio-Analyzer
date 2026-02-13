@@ -57,7 +57,6 @@ The score is calculated using:
 ---
 
 ## 🚀 Installation & Setup
-
 ```bash
 git clone https://github.com/Shubham-coder-a/GitHub-Portfolio-Analyzer.git
 cd GitHub-Portfolio-Analyzer
@@ -67,7 +66,7 @@ Open in browser:
 http://localhost:8501
 
 ---
-📊 Visualizations
+##📊 Visualizations
 Language Distribution Chart
 Developer Strength Radar Chart
 Portfolio Score Indicator
