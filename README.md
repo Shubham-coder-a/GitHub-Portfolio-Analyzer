@@ -79,7 +79,7 @@ Profile Overview
 ![Profile Overview](![Demo Preview/Home + Profile Overview.png](<Demo Preview/Home + Profile Overview.png>))
 
 Portfolio Score Section
-(![Portfolio score](<Demo Preview/Home + Profile Overview.png>))
+(![Portfolio score](<Demo Preview/Portfolio Score Section.png>))
 
 Highlighted Repositories
 ![Highlighted Repositories](<Demo Preview/Highlighted Repositories.png>)
