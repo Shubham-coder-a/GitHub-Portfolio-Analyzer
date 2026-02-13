@@ -76,7 +76,7 @@ Highlighted Repository Cards
 
 ##📸 Demo Preview
 Profile Overview
-![Profile Overview](![Demo Preview/Home + Profile Overview.png](<Demo Preview/Home + Profile Overview.png>))
+![Profile Overview](<Demo Preview/Home + Profile Overview.png>)
 
 Portfolio Score Section
 (![Portfolio score](<Demo Preview/Portfolio Score Section.png>))
