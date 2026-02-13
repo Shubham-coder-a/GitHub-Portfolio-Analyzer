@@ -57,7 +57,7 @@ The score is calculated using:
 ---
 
 ## 🚀 Installation & Setup
-```bash
+
 git clone https://github.com/Shubham-coder-a/GitHub-Portfolio-Analyzer.git
 cd GitHub-Portfolio-Analyzer
 pip install -r requirements.txt
@@ -74,29 +74,24 @@ Highlighted Repository Cards
 
 ---
 
-📸 Demo Preview
+##📸 Demo Preview
 Profile Overview
-
-![Profile Overview](Demo Preview/Home + Profile Overview.png)
+![Profile Overview](![Demo Preview/Home + Profile Overview.png](<Demo Preview/Home + Profile Overview.png>))
 
 Portfolio Score Section
-
-![Portfolio Score](Demo Preview/Portfolio Score Section.png)
+(![Portfolio score](<Demo Preview/Home + Profile Overview.png>))
 
 Highlighted Repositories
-
-![Highlighted Repositories](Demo Preview/Highlighted Repositories.png)
+![Highlighted Repositories](<Demo Preview/Highlighted Repositories.png>)
 
 Language Distribution Chart
-
-![Language Chart](Demo Preview/Language Analysis Chart (Bar Chart).png)
+![Language Chart](<Demo Preview/Language Analysis Chart (Bar Chart).png>)
 
 Developer Strength Radar
-
-![Radar Chart](Demo Preview/Developer Strength Radar.png)
+![Radar Chart](<Demo Preview/Developer Strength Radar.png>)
 
 ---
-🔮 Future Improvements
+##🔮 Future Improvements
 
 Contribution heatmap analysis
 AI-based project quality scoring
@@ -104,14 +99,14 @@ Resume optimization suggestions
 Export report as PDF
 
 ---
-👨‍💻 Author
+##👨‍💻 Author
 
 Shubham Raju Nagpure
 B.Sc IT | Data Analytics Enthusiast
 Python • SQL • Power BI • Visualization
 
 ---
-🏁 Hackathon Submission
+##🏁 Hackathon Submission
 
 Project Name: GitHub Portfolio Analyzer
 Category: Developer Tools / AI Analysis
