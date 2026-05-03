@@ -1,15 +1,15 @@
-# 🚀 GitHub Portfolio Analyzer
+# 🚀 AI GitHub Portfolio Analyzer (Prompt-Powered)
 
-AI-powered GitHub Portfolio Evaluation Tool  
-Built using Python, Streamlit & GitHub REST API
+AI-powered GitHub Portfolio Evaluation Tool built using Python, Streamlit & GitHub REST API.  
+This application analyzes GitHub profiles from a recruiter’s perspective and provides intelligent insights.
 
 ---
 
 ## 📌 Overview
 
-GitHub Portfolio Analyzer is a Streamlit-based web application that evaluates public GitHub profiles from a recruiter’s perspective.
+AI GitHub Portfolio Analyzer evaluates public GitHub profiles by analyzing repositories, stars, followers, activity, and technologies used.
 
-It analyzes repositories, followers, stars, activity, and technologies used to generate a structured portfolio assessment.
+It also provides **AI-based insights and suggestions** using prompt-driven logic inspired by modern AI development (Google Antigravity concept).
 
 ---
 
@@ -18,12 +18,22 @@ It analyzes repositories, followers, stars, activity, and technologies used to g
 - Analyze any public GitHub username
 - Real-time GitHub API integration
 - Portfolio Score (0–100)
-- Recruiter-style verdict
+- AI-based insights & feedback
+- Prompt-based interaction (Ask AI about profile)
 - Highlighted / Pinned repositories
 - Clickable repository links
-- Language distribution bar chart
+- Language distribution chart
 - Developer strength radar chart
 - Modern glassmorphism UI
+
+---
+
+## 🧠 AI Features
+
+- 🤖 AI Insights based on profile strength
+- 🧠 Prompt-based analysis (user can ask questions)
+- 📊 Recruiter-style evaluation
+- 💡 Improvement suggestions
 
 ---
 
@@ -40,7 +50,7 @@ The score is calculated using:
 ### Score Interpretation
 
 - 75+  → Strong GitHub Presence (Recruiter Ready)
-- 50–74 → Good Profile (Improve Impact Projects)
+- 50–74 → Good Profile (Needs improvement in impact projects)
 - Below 50 → Needs Improvement
 
 ---
@@ -62,53 +72,41 @@ git clone https://github.com/Shubham-coder-a/GitHub-Portfolio-Analyzer.git
 cd GitHub-Portfolio-Analyzer
 pip install -r requirements.txt
 streamlit run app.py
+
 Open in browser:
 http://localhost:8501
 
 ---
-##📊 Visualizations
-Language Distribution Chart
-Developer Strength Radar Chart
-Portfolio Score Indicator
-Highlighted Repository Cards
+
+## 📊 Visualizations
+
+- Language Distribution Chart
+- Developer Strength Radar Chart
+- Portfolio Score Indicator
+- Highlighted Repository Cards
 
 ---
 
-##📸 Demo Preview
-Profile Overview
-![Profile Overview](<Demo Preview/Home + Profile Overview.png>)
+## 🔮 Future Improvements
 
-Portfolio Score Section
-(![Portfolio score](<Demo Preview/Portfolio Score Section.png>))
-
-Highlighted Repositories
-![Highlighted Repositories](<Demo Preview/Highlighted Repositories.png>)
-
-Language Distribution Chart
-![Language Chart](<Demo Preview/Language Analysis Chart (Bar Chart).png>)
-
-Developer Strength Radar
-![Radar Chart](<Demo Preview/Developer Strength Radar.png>)
+- Contribution heatmap analysis
+- AI-based project quality scoring
+- Resume optimization suggestions
+- Export report as PDF
 
 ---
-##🔮 Future Improvements
 
-Contribution heatmap analysis
-AI-based project quality scoring
-Resume optimization suggestions
-Export report as PDF
+## 👨‍💻 Author
 
----
-##👨‍💻 Author
-
-Shubham Raju Nagpure
-B.Sc IT | Data Analytics Enthusiast
-Python • SQL • Power BI • Visualization
+Shubham Raju Nagpure  
+B.Sc IT | Data Analytics Enthusiast  
+Python • SQL • Power BI • Visualization  
 
 ---
-##🏁 Hackathon Submission
 
-Project Name: GitHub Portfolio Analyzer
-Category: Developer Tools / AI Analysis
-Goal: Evaluate GitHub profiles like a recruiter
+## 🏁 Hackathon Submission
 
+Project Name: AI GitHub Portfolio Analyzer  
+Category: Developer Tools / AI Analysis  
+
+This project uses prompt-based logic inspired by AI-driven development (Google Antigravity concept) to evaluate GitHub portfolios and provide intelligent feedback.
