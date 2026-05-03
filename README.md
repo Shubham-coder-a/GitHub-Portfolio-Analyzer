@@ -1,98 +1,84 @@
 # 🚀 AI GitHub Portfolio Analyzer (Prompt-Powered)
 
-AI-powered GitHub Portfolio Evaluation Tool built using Python, Streamlit & GitHub REST API.  
-This application analyzes GitHub profiles from a recruiter’s perspective and provides intelligent insights.
+> AI-powered tool to evaluate GitHub profiles like a recruiter.
+
+🌐 Live Demo: https://dev-profile-analyzer.streamlit.app/  
+💻 GitHub Repo: https://github.com/Shubham-coder-a/GitHub-Portfolio-Analyzer  
 
 ---
 
-## 📌 Overview
+## 💡 Overview
 
-AI GitHub Portfolio Analyzer evaluates public GitHub profiles by analyzing repositories, stars, followers, activity, and technologies used.
+AI GitHub Portfolio Analyzer analyzes any public GitHub profile and provides a complete evaluation using AI-driven logic.
 
-It also provides **AI-based insights and suggestions** using prompt-driven logic inspired by modern AI development (Google Antigravity concept).
-
----
-
-## 🎯 Key Features
-
-- Analyze any public GitHub username
-- Real-time GitHub API integration
-- Portfolio Score (0–100)
-- AI-based insights & feedback
-- Prompt-based interaction (Ask AI about profile)
-- Highlighted / Pinned repositories
-- Clickable repository links
-- Language distribution chart
-- Developer strength radar chart
-- Modern glassmorphism UI
+✔️ Portfolio Score (0–100)  
+✔️ AI-based insights & feedback  
+✔️ Recruiter-style evaluation  
+✔️ Improvement suggestions  
 
 ---
 
-## 🧠 AI Features
+## ⚡ Key Features
 
-- 🤖 AI Insights based on profile strength
-- 🧠 Prompt-based analysis (user can ask questions)
-- 📊 Recruiter-style evaluation
-- 💡 Improvement suggestions
+- 🔍 Analyze any GitHub username  
+- 📊 Portfolio scoring system  
+- 🤖 AI insights (prompt-based logic)  
+- 📈 Language distribution chart  
+- 🧠 Developer strength radar chart  
+- 📌 Highlighted repositories  
+- 🎨 Modern UI (glassmorphism design)  
 
 ---
 
-## 🧠 Portfolio Scoring Criteria
+## 🧠 How It Works
 
-The score is calculated using:
+The system evaluates profiles based on:
 
-- Number of Public Repositories
-- Total Stars
-- Followers Count
-- Recent Activity
-- Technology Diversity
+- Repositories count  
+- Stars & popularity  
+- Followers  
+- Activity level  
+- Technology diversity  
 
-### Score Interpretation
+📊 Score Meaning:
 
-- 75+  → Strong GitHub Presence (Recruiter Ready)
-- 50–74 → Good Profile (Needs improvement in impact projects)
-- Below 50 → Needs Improvement
+- 75+ → 🚀 Strong Profile (Recruiter Ready)  
+- 50–74 → 👍 Good Profile  
+- Below 50 → ⚠️ Needs Improvement  
 
 ---
 
 ## 🛠 Tech Stack
 
-- Python
-- Streamlit
-- GitHub REST API
-- Requests
-- Matplotlib
-- HTML + CSS (Custom Styling)
+Python • Streamlit • GitHub API • Requests • Matplotlib  
 
 ---
 
-## 🚀 Installation & Setup
+## 🤖 AI Integration
 
-git clone https://github.com/Shubham-coder-a/GitHub-Portfolio-Analyzer.git
-cd GitHub-Portfolio-Analyzer
-pip install -r requirements.txt
-streamlit run app.py
+- AI-based feedback system  
+- Prompt-driven insights  
+- Recruiter-style decision logic  
 
-Open in browser:
-http://localhost:8501
+Built using prompt engineering concepts inspired by Google Antigravity 🚀  
 
 ---
 
-## 📊 Visualizations
+## 🚀 Run Locally
 
-- Language Distribution Chart
-- Developer Strength Radar Chart
-- Portfolio Score Indicator
-- Highlighted Repository Cards
+git clone https://github.com/Shubham-coder-a/GitHub-Portfolio-Analyzer.git  
+cd GitHub-Portfolio-Analyzer  
+pip install -r requirements.txt  
+streamlit run app.py  
 
 ---
 
-## 🔮 Future Improvements
+## 🔮 Future Scope
 
-- Contribution heatmap analysis
-- AI-based project quality scoring
-- Resume optimization suggestions
-- Export report as PDF
+- AI project quality analysis  
+- Resume suggestions  
+- Contribution heatmap  
+- PDF export report  
 
 ---
 
@@ -106,7 +92,7 @@ Python • SQL • Power BI • Visualization
 
 ## 🏁 Hackathon Submission
 
-Project Name: AI GitHub Portfolio Analyzer  
-Category: Developer Tools / AI Analysis  
+Project: AI GitHub Portfolio Analyzer  
+Category: AI / Developer Tools  
 
-This project uses prompt-based logic inspired by AI-driven development (Google Antigravity concept) to evaluate GitHub portfolios and provide intelligent feedback.
+Evaluates GitHub profiles using AI-driven, prompt-based logic.
